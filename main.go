@@ -14,3 +14,5 @@ func GetUTFLength(input []byte) (int, error) {
 
 	return utf8.RuneCount(input), nil
 }
+
+//ладно
